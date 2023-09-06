@@ -1,0 +1,284 @@
+Set-PSReadLineOption 
+clear
+winver
+Install-Module PSReadLine -AllowPrerelease -Force
+winget install
+w
+winget help
+winget install postman
+java
+cd
+java -v
+java -version
+clear
+mvn -v
+maven -v
+clear
+nvm install 19
+nvm install latets
+nvm install latest
+nvm use 20
+node -v
+npm -v
+clear
+winver
+oh-my-posh install font
+oh-my-posh font install
+oh-my-posh install font
+oh-my-posh font install
+cd D:\Downloads\Developer\xp_activate32_src
+code .
+rc xp_activate32.rc && cl /arch:IA32 /O1 /GS- xp_activate32.c xp_activate32.res /link /fixed /entry:entry /subsystem:windows,5.1 kernel32.lib user32.lib msvcrt.lib ole32.lib oleaut32.lib comctl32.lib
+./xp_activate32.exe
+slmgr /xpr
+python3
+py
+py pip
+pip
+clear
+pip install pywin32
+pip install --upgrade pip
+python.exe -m pip install --upgrade pip
+pip install pywin32
+adb devices
+fastboot devices
+adb devices
+fastboot devices
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+git clone https://github.com/ranmaru22/firefox-vertical-tabs
+mlink "D:\GitHub\firefox-vertical-tabs\userChrome.css"
+mklink "D:\GitHub\firefox-vertical-tabs\userChrome.css"
+mklink
+./mklink "D:\GitHub\firefox-vertical-tabs\userChrome.css"
+clear
+& "mklink "D:\GitHub\firefox-vertical-tabs\userChrome.css""
+diskpart
+cava
+git clone https://github.com/AnubisNekhet/AnuPpuccin.git
+sass src/base.scss theme.css
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+netsh wlan show profile "CameraWifi" key=clear
+winget install JanDeDobbeleer.OhMyPosh -s winget
+winget install starship
+oh-my-posh font install
+winget install firefox
+winget install firefox.winget
+winget install firefox --id winget
+winget install Mozilla.Firefox
+winget install gitbash
+winget install git
+winget install Git.Git
+git clone https://github.com/catppuccin/notepad-plus-plus
+cava
+cd Documents
+clear
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+starship init powershell
+Invoke-Expression (&starship init powershell)
+cd
+cd Documents
+winfecth
+clear
+rc xp_activate32.rc && cl /arch:IA32 /O1 /GS- xp_activate32.c xp_activate32.res /link /fixed /entry:entry /subsystem:windows,5.1 kernel32.lib user32.lib msvcrt.lib ole32.lib oleaut32.lib comctl32.lib
+./xp_active32
+./xp_active32.exe
+xp_active32.exe
+ls
+xp_actiave32.exe
+./xp_activate32.exe
+xp_activate32.bat
+./xp_activate32.bat
+diskpart
+manage-bde -forcerecovery Volume 4
+manage-bde -forcerecovery E
+manage-bde -forcerecovery disk2
+manage-bde -?
+manage-bde -forcerecovery e:\
+manage-bde -forcerecovery E:\
+manage-bde -forcerecovery E
+manage-bde -forcerecoveryE
+manage-bde -forcerecovery E:/
+diskpart
+winget install pchealthcheck
+gpupdate /force
+shutdown.exe -i
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/d2dfd7789f50ad3a2aaf7649945ee2c5c9b51c9d/hsr_getlink.ps1'))}"
+git clone https://github.com/neon-nyan/Collapse --recurse
+setup
+setup -r -f1 DeployInstaller-Stable.iss
+setup -r -f1DeployInstaller-Stable.iss
+setup -r -f1 c:\OutputLocation\DeployInstaller-Stable.iss
+setup -r -f1c:\OutputLocation\DeployInstaller-Stable.iss
+setup -r -f1 c:\OutputLocation DeployInstaller-Stable.iss
+Setup.exe /s /f1"DeployInstaller-Stable.iss"
+Setup /s /f1"DeployInstaller-Stable.iss"
+git clone https://github.com/Scighost/Starward
+ping topcv.vn
+git pull
+clear
+jlink --help
+clear
+jdeps WindowsKeyGenerator.jar
+jlinks --add-modules java.base, java desktop, java.datatransfer --output jre --compress=2 --no-header-file
+jlink --add-modules java.base, java desktop, java.datatransfer --output jre --compress=2 --no-header-file
+jlink --add-modules java.base,java desktop,java.datatransfer --output jre --compress=2 --no-header-file
+jlink --add-modules java.base,java.desktop,java.datatransfer --output jre --compress=2 --no-header-file
+jlink --add-modules java.base,java.desktop,java.datatransfer --output jre --compress=2 --no-header-files
+git clone https://github.com/2dgirlismywaifu/book_store_manager
+telnet 171.229.245.89 1433
+java -jar BookStoreMaven-1.0.0.jar
+git clone https://github.com/2dgirlismywaifu/Email_client
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/d2dfd7789f50ad3a2aaf7649945ee2c5c9b51c9d/hsr_getlink.ps1'))}"
+slmgr.vbs /dlv
+scrcpy
+sfc /scannow
+jlink help
+jdeps WindowsKeyGenerator.jar
+clear
+jdeps WindowsKeyGenerator.jar
+clear
+jlinks --help
+jlink --help
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+clear
+git clone https://github.com/arturolegovich/BypassESU-v9-AIO
+clear
+java -jar newsandroid_rest-0.0.1-SNAPSHOT.jar
+jdeps newsandroid_rest-0.0.1-SNAPSHOT.jar
+curl -X 'POST' \
+  'http://localhost:8080/api/v2/register' \
+  -H 'accept: */*' \
+  -H 'notelysia: Venus@#$14116560' \
+  -H 'Content-Type: application/json' \
+curl
+curl -X 'POST' \
+  'http://localhost:8080/api/v2/register' \
+  -H 'accept: */*' \
+  -H 'notelysia: Venus@#$14116560' \
+  -H 'Content-Type: application/json' \
+jdeps newsrest-2.0.jar
+jlink --add-modules java.base,java.logging --output jre --compress=2 --no-header-files
+clear
+jdeps newsrest-2.0.jar
+clear
+cd jre
+cd bin
+./jre/bin/java 
+./jre/bin/java -jar newsrest-2.0.jar
+java -jar newsrest-2.0.jar
+clear
+./jre/bin/java -jar newsrest-2.0.jar
+clear
+jlink --output jre --add-modules $(jdeps --print-module-deps newsrest-2.0.jar),java.xml,jdk.unsupported,java.sql,java.naming,java.desktop,java.management,java.security.jgss,java.instrument
+jdeps --print-module-deps newsrest-2.0.jar
+clear
+jlink --add-modules java.base,java.logging,java.xml,jdk.unsupported,java.sql,java.naming,java.desktop,java.management,java.security.jgss,java.instrument --output jre --compress=2 --no-header-files
+./jre/bin/java -jar newsrest-2.0.jar
+clear
+./NewsApprREST
+ssl
+Get-WindowsCapability -Online | ? Name -like 'OpenSSH.Client*'
+ssh -L 55001:192.168.1.8:55001 root@192.168.1.8
+Get-WindowsCapability -name openssh.client* -online | Add-WindowsCapability –Online
+cd C:\Users\notelysia\ngrok-v3-stable-windows-amd64
+./ngrok http 80
+ngrok
+NewsApprREST
+ngrok http 2984
+ngrok http 55001
+git pull
+NewsApprREST
+java -jar ADB-GUI-Tool-0.1.9.jar
+ssh notelysia@171.229.245.89:55001
+ssh notelysia@171.229.245.89:5435
+ssh 171.229.245.89:5435
+ssh notelysia@171.229.245.89
+ssh notelysia@171.229.245.89 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@171.229.245.89 -p 5435
+ẽit
+telnet 171.229.245.89 1433
+clear
+ssh notelysia@171.229.245.89 -p 5435
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+clear
+ssh notelysia@171.229.245.89 -p 5435
+clear
+git init
+git commit -m "Upload test web version"
+git add *
+git commit -m "Upload test web version"
+git branch -M web
+git remote add origin https://github.com/2dgirlismywaifu/Legacy_Key_Generator
+git push -u origin web
+git pull
+git pull web
+git push -u origin web
+git in
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main`
+git remote add origin https://github.com/2dgirlismywaifu/Legacy_Key_Generator_Web.git`
+git push -u origin main
+yarn
+npm install --global yarn
+yarn start
+ssh notelysia@171.229.245.89 -p 5435
+fastboot devices
+adb devices
+fastboot devices
+fastboot
+./fastboot
+./fastboot devices
+./fastboot reboot recovery
+./fastboot reboot
+adb reboot bootloader
+./fastboot reboot
+ssh notelysia@171.229.245.89 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@116.111.98.170 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+sudo systemctl enable teamviewerd
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+java -jar restservices-2.0.jar
+java -jar restservices-2.0.jar -Dlog4j.debug=true
+java -Dlog4j.debug=true -jar restservices-2.0.jar
+java -jar restservices-2.0.jar
+java -Dlog4j.debug=true -jar restservices-2.0.jar
+java -jar restservices-2.0.jar
+java -Dlog4j.debug=true -jar restservices-2.0.jar
+java -Dlog4j.configuration=resources/log4j2.xml -jar restservices-2.0.jar
+java -jar restservices-2.0.jar
+cd target
+java -jar restservices-2.0.jar
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+java -jar dvt-DBeaver-KeyMaker.jar
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+oh-my-posh disable notice
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+sfc /scannow
+reboot
+DISM /Online /Cleanup-Image /RestoreHealth
+[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; Invoke-Expression (New-Object Net.WebClient).DownloadString("https://gist.githubusercontent.com/Star-Rail-Station/2512df54c4f35d399cc9abbde665e8f0/raw/get_warp_link_os.ps1?cachebust=srs")
+DISM /Online /Cleanup-Image /RestoreHealth
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+git help
+git init
+git commit -m "first commit"
+git add *
