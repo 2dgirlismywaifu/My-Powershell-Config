@@ -282,3 +282,32 @@ git help
 git init
 git commit -m "first commit"
 git add *
+git commit -m "first commit"
+git help
+git remote add origin https://github.com/2dgirlismywaifu/My-Powershell-Config
+git push -u origin master
+git push -u origin main
+git pull
+git push -u origin main
+git branch -m main
+git pull
+git remote add origin https://github.com/2dgirlismywaifu/My-Powershell-Config
+git push -u origin main
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget install sirikali
+winget install -h -e --id "WinFsp.WinFsp" && winget install -h -e --id "SSHFS-Win.SSHFS-Win"
+xcopy
+xcopy Security Backup 2.rar C:\Users\notelysia\OneDrive - dada
+xcopy help
+xcopy 'Security Backup 2.rar' C:\Users\notelysia\OneDrive - dada
+xcopy 'Security Backup 2.rar' 'C:\Users\notelysia\OneDrive - dada'
+whoami
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435\
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git commit -m "commit at 11/09/2023"
+git add *
