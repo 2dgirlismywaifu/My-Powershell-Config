@@ -311,3 +311,320 @@ clear
 ssh notelysia@notelysiaserver.ddns.net -p 5435
 git commit -m "commit at 11/09/2023"
 git add *
+git commit -m "commit at 11/09/2023"
+git push -u origin main
+winget install wget
+wget
+cd D:\
+ls
+cd 'A Weebs Linux Distro'
+wget https://github.com/archcraft-os/archcraft-xfce/releases/download/v23.04/archcraft-xfce-2023.04.02-x86_64.iso
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+curl -X 'GET' \
+  'http://notelysiaserver.ddns.net:3000/api/v2/win?os=95' \
+curl -X 'GET' 'https://notelysiaserver.ddns.net:3000/api/v2/win?os=95' -H 'accept: */*'
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh -T notelysia@notelysiaserver.ddns.net -p 5450
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh -T 2dgirlismywaifu@github.com
+ssh -T git@github.com
+ssh -T 2dgirlismywaifu@github.com
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net:3000
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git clone https://github.com/2dgirlismywaifu/WebShop_LightNovel
+iwr -useb https://christitus.com/win | iex
+mklink /D %USERPROFILE%\.vscode\extensions "D:\builder_cache\.vscode\extensions"
+mlink
+ping notelysiaserver.ddns.net
+ping google.com
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ipconfig
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@192.168.2.8 -p 5435
+ssh notelysia@192.168.2.174 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@192.168.2.8 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ping notelysiaserver.ddns.net:8443
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+Get-WindowsOptionalFeature -Online -FeatureName SMB1Protocol
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+neofetch
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+sudo shutdown
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435\
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@116.111.96.119 -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+cccc
+c
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net:8920
+ping https://notelysiaserver.ddns.net:8920
+ping notelysiaserver.ddns.net:8920
+ping https://notelysiaserver.ddns.net:8920
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git clone https://github.com/animerocker/bilibili-json-to-srt
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+exit
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping bilibili.tv
+ping www.bilibili.tv/vi
+ping bilibili.tv/vi
+ping bilibili.tv
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh 192.168.1.3
+ssh hanghanu@192.168.1.3
+ssh hanghana@192.168.1.3
+ssh thanhhang@192.168.1.3
+ssh root@192.168.1.3
+ssh thanhhang@192.168.1.3
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+nvm
+nvm use latets
+nvm use lastest
+nvm use latest
+nvm install latest
+nvm use latest
+node -v
+npm -v
+yarn -v
+yarn --v
+npm install --global yarn
+yarn --v
+yarn -v
+nvm list
+nvm uninstall 20.2.0 
+nvm uninstall 19.9.0
+nvm
+npm install prettier --save-dev
+npm funding
+npm fund
+npm update
+npm fund
+yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+clear
+yarn lint
+yarn --fix
+yarn lint
+yarn --fix
+yarn lint
+yarn prettier
+yarn prettier --check
+yarn prettier -c
+clear
+prettier -c
+clar
+clear
+yarn prettier -c
+yarn prettier --config src/.prettierignore
+yarn prettier
+yarn prettier:fix
+yarn start
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+htop
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+diskpart
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ping notelysiaserver.ddns.net
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+shutdown.exe -s -t 0
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+cava
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+nvm install latest
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh-keygen
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh-keygen -t ecdsa -b 521
+cd .ssh
+ls
+scp hparch_server.pub notelysia@notelysiaserver.ddns.net -p 5435
+scp hparch_server.pub notelysia@notelysiaserver.ddns.net:5435
+scp help
+scp hparch_server.pub notelysia@notelysiaserver.ddns.net:5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh-keygen
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh-keygen -p -f ~/.ssh/id_rsa
+ssh-keygen -p -f id_rsa
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+exit
+ssh root@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+D:
+mkdir ipsw
+cd ipsw
+wget https://updates.cdn-apple.com/2023FCSWinter/fullrestores/032-14132/A3C10B93-0E34-405D-8A92-92AA354BABF0/iPad_64bit_12.5.7_16H81_Restore.ipsw
+ffmpeg
+winget install "FFmpeg (Shared)"
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 01.mp4'
+ffmpeg
+winget install "FFmpeg (Shared)"
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 01.mp4'
+ffmpeg -h
+winget install ffmpeg
+ffmpeg -h
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 03.mp4'
+cd ..
+ls
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 13.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Arifureta 2nd Season - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Horimiya - 13.mp4'
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+sfc /scannow
+dism /Online /Cleanup-Image /RestoreHealth
+winget install startallback
+cd .ssh
+ssh-keygen -help
+ssh-keygen -h
+ssh-keygen -p -f id_rsa -C "notelysia@ipadmini2"
+cd
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git clone https://github.com/AnubisNekhet/AnuPpuccin.git
+git init
+git add *
+git rm --cached .obsidian/themes/AnuPpuccin
+git submodule add https://github.com/AnubisNekhet/AnuPpuccin .obsidian/themes/AnuPpuccin
+git rm -f --cached .obsidian/themes/AnuPpuccin
+git submodule add https://github.com/AnubisNekhet/AnuPpuccin .obsidian/themes/AnuPpuccin
+git config --global core.autocrlf false
+git init
+git add *
+git submodule add https://github.com/AnubisNekhet/AnuPpuccin .obsidian/themes/AnuPpuccin
+git rm -f --cached .obsidian/themes/AnuPpuccin
+git submodule add https://github.com/AnubisNekhet/AnuPpuccin .obsidian/themes/AnuPpuccin
+git commit -m "My Obsidian Valut"
+git branch -M main
+git remote add origin https://github.com/2dgirlismywaifu/Obsidia-Sync.git
+git push -u origin main
+git config credential.helper
+git config --global --add safe.directory D:\builder_cache\NOTElysia
+git pull
+git config --global --add safe.directory D:/builder_cache/NOTElysia
+clear
+git commit -m "Update my value"
+git add *
+cd D:\builder_cache
+ls
+cd NOTElysia
+git add *
+git commit -m "Update my value"
+git push -u origin main
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+ls
+cd 10209450
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Warlords of Sigrdrifa - 12.mp4'
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Nonbiri Nouka - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 05.mp4'
+cd ..
+ls
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Isekai Yakkyoku - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 12.mp4'
+git add *
