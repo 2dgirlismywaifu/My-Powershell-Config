@@ -836,6 +836,129 @@
   </command:command>
   <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
     <command:details>
+      <command:name>Invoke-TerminalIconsThemeMigration</command:name>
+      <command:verb>Invoke</command:verb>
+      <command:noun>TerminalIconsThemeMigration</command:noun>
+      <maml:description>
+        <maml:para>Used to migrate your terminal icon themes to Nerd Fonts v3.</maml:para>
+      </maml:description>
+    </command:details>
+    <maml:description>
+      <maml:para>Used to migrate your terminal icon themes to Nerd Fonts v3.</maml:para>
+    </maml:description>
+    <command:syntax>
+      <command:syntaxItem>
+        <maml:name>Invoke-TerminalIconsThemeMigration</maml:name>
+        <command:parameter required="true" variableLength="true" globbing="true" pipelineInput="True (ByPropertyName, ByValue)" position="1" aliases="none">
+          <maml:name>Path</maml:name>
+          <maml:description>
+            <maml:para>{{ Fill Path Description }}</maml:para>
+          </maml:description>
+          <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
+          <dev:type>
+            <maml:name>String[]</maml:name>
+            <maml:uri />
+          </dev:type>
+          <dev:defaultValue>None</dev:defaultValue>
+        </command:parameter>
+      </command:syntaxItem>
+      <command:syntaxItem>
+        <maml:name>Invoke-TerminalIconsThemeMigration</maml:name>
+        <command:parameter required="true" variableLength="true" globbing="false" pipelineInput="True (ByPropertyName)" position="1" aliases="PSPath">
+          <maml:name>LiteralPath</maml:name>
+          <maml:description>
+            <maml:para>{{ Fill LiteralPath Description }}</maml:para>
+          </maml:description>
+          <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
+          <dev:type>
+            <maml:name>String[]</maml:name>
+            <maml:uri />
+          </dev:type>
+          <dev:defaultValue>None</dev:defaultValue>
+        </command:parameter>
+      </command:syntaxItem>
+    </command:syntax>
+    <command:parameters>
+      <command:parameter required="true" variableLength="true" globbing="true" pipelineInput="True (ByPropertyName, ByValue)" position="1" aliases="none">
+        <maml:name>Path</maml:name>
+        <maml:description>
+          <maml:para>{{ Fill Path Description }}</maml:para>
+        </maml:description>
+        <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
+        <dev:type>
+          <maml:name>String[]</maml:name>
+          <maml:uri />
+        </dev:type>
+        <dev:defaultValue>None</dev:defaultValue>
+      </command:parameter>
+      <command:parameter required="true" variableLength="true" globbing="false" pipelineInput="True (ByPropertyName)" position="1" aliases="PSPath">
+        <maml:name>LiteralPath</maml:name>
+        <maml:description>
+          <maml:para>{{ Fill LiteralPath Description }}</maml:para>
+        </maml:description>
+        <command:parameterValue required="true" variableLength="false">String[]</command:parameterValue>
+        <dev:type>
+          <maml:name>String[]</maml:name>
+          <maml:uri />
+        </dev:type>
+        <dev:defaultValue>None</dev:defaultValue>
+      </command:parameter>
+    </command:parameters>
+    <command:inputTypes>
+      <command:inputType>
+        <dev:type>
+          <maml:name>None.</maml:name>
+        </dev:type>
+        <maml:description>
+          <maml:para></maml:para>
+        </maml:description>
+      </command:inputType>
+    </command:inputTypes>
+    <command:returnValues>
+      <command:returnValue>
+        <dev:type>
+          <maml:name>System.String</maml:name>
+        </dev:type>
+        <maml:description>
+          <maml:para></maml:para>
+        </maml:description>
+      </command:returnValue>
+      <command:returnValue>
+        <dev:type>
+          <maml:name>The theme that has been fully migrated.</maml:name>
+        </dev:type>
+        <maml:description>
+          <maml:para></maml:para>
+        </maml:description>
+      </command:returnValue>
+    </command:returnValues>
+    <maml:alertSet>
+      <maml:alert>
+        <maml:para></maml:para>
+      </maml:alert>
+    </maml:alertSet>
+    <command:examples>
+      <command:example>
+        <maml:title>-------------------------- EXAMPLE 1 --------------------------</maml:title>
+        <dev:code>Invoke-TerminalIconsThemeMigration -Path ./my_icon_theme.psd1 | Out-File ./migrated_icon_theme.psd1</dev:code>
+        <dev:remarks>
+          <maml:para>Loads the theme, migrates classes and then saves the newly migrated theme using the Out-File command.</maml:para>
+        </dev:remarks>
+      </command:example>
+    </command:examples>
+    <command:relatedLinks>
+      <maml:navigationLink>
+        <maml:linkText>Invoke-TerminalIconsThemeMigration</maml:linkText>
+        <maml:uri></maml:uri>
+      </maml:navigationLink>
+      <maml:navigationLink>
+        <maml:linkText>Invoke-TerminalIconsThemeMigration</maml:linkText>
+        <maml:uri></maml:uri>
+      </maml:navigationLink>
+    </command:relatedLinks>
+  </command:command>
+  <command:command xmlns:maml="http://schemas.microsoft.com/maml/2004/10" xmlns:command="http://schemas.microsoft.com/maml/dev/command/2004/10" xmlns:dev="http://schemas.microsoft.com/maml/dev/2004/10" xmlns:MSHelp="http://msdn.microsoft.com/mshelp">
+    <command:details>
       <command:name>Remove-TerminalIconsTheme</command:name>
       <command:verb>Remove</command:verb>
       <command:noun>TerminalIconsTheme</command:noun>
@@ -1534,23 +1657,23 @@
       </command:example>
       <command:example>
         <maml:title>-------------------------- EXAMPLE 2 --------------------------</maml:title>
-        <dev:code>Set-TerminalIconsIcon -FileExtension ".xml" -Glyph "nf-mdi-file_xml"</dev:code>
+        <dev:code>Set-TerminalIconsIcon -FileExtension ".xml" -Glyph "nf-md-xml"</dev:code>
         <dev:remarks>
           <maml:para>Set XML files to display an XML file icon.</maml:para>
         </dev:remarks>
       </command:example>
       <command:example>
         <maml:title>-------------------------- EXAMPLE 3 --------------------------</maml:title>
-        <dev:code>Set-TerminalIconsIcon -Directory ".github" -Glyph "nf-mdi-github_face"</dev:code>
+        <dev:code>Set-TerminalIconsIcon -Directory ".github" -Glyph "nf-dev-github_alt"</dev:code>
         <dev:remarks>
           <maml:para>Set directories named ".github" to display an Octocat face icon.</maml:para>
         </dev:remarks>
       </command:example>
       <command:example>
         <maml:title>-------------------------- EXAMPLE 4 --------------------------</maml:title>
-        <dev:code>Set-TerminalIconsIcon -Glyph "nf-mdi-xml" -NewGlyph "nf-mdi-file_xml"</dev:code>
+        <dev:code>Set-TerminalIconsIcon -Glyph "nf-md-xml" -NewGlyph "nf-md-xml"</dev:code>
         <dev:remarks>
-          <maml:para>Changes all uses of the "nf-mdi-xml" double-wide glyph to be the "nf-mdi-file_xml" single-width XML file glyph.</maml:para>
+          <maml:para>Changes all uses of the "nf-md-xml" double-wide glyph to be the "nf-md-xml" single-width XML file glyph.</maml:para>
         </dev:remarks>
       </command:example>
     </command:examples>

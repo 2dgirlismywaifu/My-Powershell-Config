@@ -628,3 +628,247 @@ ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 12.mp4'
 ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 11.mp4'
 ffmpeg -i video.m4s -i audio.m4s -codec copy 'Classroom For Heroes - 12.mp4'
 git add *
+git commit -m "Update my powershell"
+git push -u origin main
+git init
+git add *
+git commit -m "My Study React"
+git branch -M main
+git remote add origin https://github.com/2dgirlismywaifu/My-ReactJS-Study.git
+git push -u origin main
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+scp
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+yarn start
+clear
+yarn add sass
+yarn prettier:fix
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+cd D:
+cd Downloads
+wget https://objects.githubusercontent.com/github-production-release-asset-2e65be/299354207/303627ae-dcf1-4c97-83a5-f341c96c2e44?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231019%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231019T010901Z&X-Amz-Expires=300&X-Amz-Signature=f7922ef403ccb3733a80abe6d758c770d3eab17fdd6062ba85fa594affbc5981&X-Amz-SignedHeaders=host&actor_id=59259855&key_id=0&repo_id=299354207&response-content-disposition=attachment%3B%20filename%3Drustdesk-1.2.3-x86_64.exe&response-content-type=application%2Foctet-stream
+wget https://github.com/rustdesk/rustdesk/releases/download/1.2.3/rustdesk-1.2.3-x86_64.exe
+./WindowsAgentAIOInstall.ps1
+Remove-Item C:\Users\$username\AppData\Roaming\RustDesk\config\RustDesk2.toml
+New-Item C:\Users\$username\AppData\Roaming\RustDesk\config\RustDesk2.toml
+$username = ((Get-WMIObject -ClassName Win32_ComputerSystem).Username).Split('\')[1]
+Remove-Item C:\Users\$username\AppData\Roaming\RustDesk\config\RustDesk2.toml
+New-Item C:\Users\$username\AppData\Roaming\RustDesk\config\RustDesk2.toml
+Set-Content C:\Users\$username\AppData\Roaming\RustDesk\config\RustDesk2.toml "rendezvous_server = 'notelysiaserver.ddns.net' `nnat_type = 1`nserial = 0`n`n[options]`ncustom-rendezvous-server = 'notelysiaserver.ddns.net'`nkey = 'jj8ZKVcVjn0Lyfr2DZOZ24BrcPmUwBjo5Cw2NIUllUc='`nrelay-server = 'notelysiaserver.ddns.net'`napi-server = 'https://notelysiaserver.ddns.net'"
+Remove-Item C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\config\RustDesk2.toml
+New-Item C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\config\RustDesk2.toml
+Set-Content C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\config\RustDesk2.toml "rendezvous_server = 'notelysiaserver.ddns.net' `nnat_type = 1`nserial = 0`n`n[options]`ncustom-rendezvous-server = 'notelysiaserver.ddns.net'`nkey = 'jj8ZKVcVjn0Lyfr2DZOZ24BrcPmUwBjo5Cw2NIUllUc='`nrelay-server = 'notelysiaserver.ddns.net'`napi-server = 'https://notelysiaserver.ddns.net'"
+net start rustdesk
+$random_pass = (-join ((65..90) + (97..122) | Get-Random -Count 8 | % {[char]$_}))
+net stop rustdesk > null
+$ProcessActive = Get-Process rustdesk -ErrorAction SilentlyContinue
+if($ProcessActive -ne $null)`
+{`
+stop-process -ProcessName rustdesk -Force`
+}
+$rustdesk_pw = (-join ((65..90) + (97..122) | Get-Random -Count 12 | % {[char]$_}))
+net start rustdesk > null
+cd $env:ProgramFiles\RustDesk\
+$rustdesk_id = (.\RustDesk.exe --get-id | out-host)
+Write-Output "RustDesk ID is: $rustdesk_id"
+Stop-Process -Name RustDesk -Force > null
+Start-Service -Name RustDesk > null
+nvm install lts
+nvm use lts
+node -v
+npm -v
+winfetcj
+winfetch
+VBoxManage
+clear
+VboxManage
+clear
+VboxManage clonehd 'My Arch Linux Rice.vdi' archlinux.img --format RAW
+VboxManage clonehd '{2c2deb05-fdd0-48ff-a757-955cde37e435}.vdi' archlinux.img --format RAW
+manage-bde -status
+DISM /Online /Get-Capabilities
+DISM /Online /Add-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+Enable-WindowsOptionalFeature -FeatureName "WindowsMediaPlayer" -All -Online
+DISM /Online /Add-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+dism /online /add-capability /capabilityname:Media.MediaFeaturePack~~~~0.0.1.0
+DISM /Online /Get-Capabilities
+DISM /Online /Add-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+manage-bde -status
+DISM /Online /Add-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+DISM /Online /Cleanup-Image /RestoreHealth
+DISM /Online /Add-Capability /CapabilityName:Media.WindowsMediaPlayer~~~~0.0.12.0
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435\
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget upgrade
+winget help
+winget upgrade all
+winget upgrade --all --include-unknown
+winget install ultraviewer
+winget upgrade --all --include-unknown
+flutter --help
+flutter -v
+flutter upgrade
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+dism /Online /Add-Package /PackagePath:"D:\Downloads\Windows Tweak and Mod\windows11.0-kb5031894-x64_497e774f68bb69ddce84152cb242d0d5821e84bc.cab"
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+cava
+adb devices
+adb push Spark-13.8-Official-lavender-20231003-gapps.zip /storage/6790-1DE6
+adb push /storage/6790-1DE6/xiaomi.eu_multi_HMNote7_V12.5.7.0.QFGCNXM_v12-10.zip
+adb pull /storage/6790-1DE6/xiaomi.eu_multi_HMNote7_V12.5.7.0.QFGCNXM_v12-10.zip
+adb devices
+adb push OrangeFox-lavender-stable@R11.1_5_A12.zip /storage/6790-1DE6
+adb devices
+winget install startallback
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+java -v
+java -version
+java -jar dvt-DBeaver-KeyMaker.jar
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+exit
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+exit
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+git force pull
+cava
+winget upgrade --all --include-unknown
+git branch -m master main
+git fetch origin
+git branch -u main main
+git remote set-head origin -a
+git pull
+git branch --set-upstream-to=origin/main main
+git push -u origin main
+git push
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435\
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435 -vvv
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+netsh dns add encryption server=94.140.14.14 dohtemplate=https://dns.adguard-dns.com autoupgrade=yes udpfallback=no
+netsh dns show encryption
+netsh dns add encryption server=94.140.14.14 dohtemplate=https://dns.adguard-dns.com autoupgrade=yes udpfallback=no
+netsh dns add encryption server=94.140.14.14 dohtemplate=https://dns.adguard.com/dns-query autoupgrade=yes udpfallback=no
+netsh dns add encryption server=94.140.14.14 dohtemplate=https://dns.adguard-dns.com autoupgrade=yes udpfallback=no
+netsh dns remove encryption server=94.140.14.14 dohtemplate=https://dns.adguard.com/dns-query autoupgrade=yes udpfallback=no
+netsh dns add encryption server=94.140.15.15 dohtemplate=https://dns.adguard.com/dns-query autoupgrade=yes udpfallback=no
+netsh dns add encryption server=2a10:50c0::ad1:ff dohtemplate=https://dns.adguard.com/dns-query autoupgrade=yes udpfallback=no
+netsh dns add encryption server=2a10:50c0::ad2:ff dohtemplate=https://dns.adguard.com/dns-query autoupgrade=yes udpfallback=no
+netsh dns show encryption
+git config --list
+git config --global --list
+git clone https://github.com/2dgirlismywaifu/My-Linux-Ricing
+cd My-Linux-Ricing
+git branch -a
+git checkout hyprland
+code
+code .
+git rebase main
+clear
+git pull
+git push
+git stash
+git add .
+git commit -m "Elysia Sticker by Marin Liekurvia"
+git push
+git stash --list
+git stash show
+git stash list
+git stash pop stash@{0}
+git stash pop e4cb9c9
+git stash pop stash{0}
+git stash pop --index  stash@{0}
+git stash apply stash@{0}
+git stash pop
+git rebase hyprland
+git rebase --abort
+clear
+gh auth login
+gh
+clear
+gh auth login
+gh api /repos/2dgirlismywaifu/My-Linux-Ricing/languages --field ref=qtile
+git submodule add https://github.com/2dgirlismywaifu/My-Linux-Ricing/tree/hyprland .obsidian/themes/AnuPpuccin
+git submodule add https://github.com/2dgirlismywaifu/My-Linux-Ricing/ .config/hyprland
+git submodule sync
+git submodule update --recursive --remote
+git submodule add https://github.com/2dgirlismywaifu/My-Linux-Ricing/ .config/qtile
+git submodule sync
+git submodule update --recursive --remote
+https://github.com/owl4ce/dotfiles owl4ce
+git clone https://github.com/owl4ce/dotfiles owl4ce
+git clone https://github.com/owl4ce/dotfiles openbox
+git checkout main
+git pull
+git checkout openbox
+git pull
+git status
+git config --global --list
+git config --global core.fileMode false
+git pull
+git reset
+git restore .
+git reset --hard
+git clone https://github.com/2dgirlismywaifu/My-Linux-Ricing
+cd My-Linux-Ricing
+git submodule update --recursive --remote
+git submodule init
+code .
+git pull
+git pull -f
+git pull --force
+git fetch --all
+git reset --hard origin/openbox
+git submodule add https://github.com/2dgirlismywaifu/My-Linux-Ricing/ .config/openbox
+git submodule sync
+git submodule init
+git submodule sync
+git clone --recurse-submodules
+clear
+git submodule update --init --recursive
+clear
+git pull
+git clone https://github.com/2dgirlismywaifu/My-Linux-Ricing.git --recurse-submodules
+ssh-keygen -t ed25519 -C "2dgirlismywaifu-gitlab"
+git submodule add https://github.com/catppuccin/alacritty .config/alacritty/catppuccin
+git submodule sync
+git stash
+git checkout openbox
+git checkout cinnamon
+git stash pop
+git stash
+git checkout openbox
+git checkout main
+git stash pop
+git clone --branch gnome43 https://github.com/Aylur/dotfiles.git rose-pine-gnome43
+cd rose-pine-gnome43
+cd Documents
+ls
+cd
+cd Onedrive
+cd Documents
+ls
+Install-Module PSReadLine
+Install-Module PSReadLine -Force
+Install-Module Terminal-Icons -Force
+ls
+cd Onedrive
+cd Documents
+ls
+cd Powershels
+ls
+cd PowerShell
+git add .
