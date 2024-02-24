@@ -44,3 +44,7 @@ Set-PSReadLineOption -Colors @{
   }
 #Change location of history file
 Set-PSReadLineOption -HistorySavePath "$env:USERPROFILE\OneDrive\Documents\PowerShell\history.txt"
+#34de4b3d-13a8-4540-b76d-b9e8d3851756 PowerToys CommandNotFound module
+
+Import-Module "C:\Users\notelysia\AppData\Local\PowerToys\WinUI3Apps\..\WinGetCommandNotFound.psd1"
+#34de4b3d-13a8-4540-b76d-b9e8d3851756

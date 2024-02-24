@@ -872,3 +872,203 @@ cd Powershels
 ls
 cd PowerShell
 git add .
+git status
+git commit -m "Update module PSReadLine and Terminal-Icons"
+git push
+winget upgrade --all --include-unknown
+ls
+iwr -useb https://christitus.com/win | iex
+neofetch
+clear
+iwr -useb https://christitus.com/win | iex
+neofetch
+iwr -useb https://christitus.com/win | iex
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh -vvv notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+Dism.exe /online /Cleanup-Image /StartComponentCleanup
+Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
+cava
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget upgrade --all --include-unknown
+clear
+winget install intellij-idea
+winget install jetbrains.intellij
+./repair
+y
+./repair
+git pull -f
+./repair
+./format
+./repair
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+java -jar client-0.0.5.jar convert --output-format=mariadb NewsApp_Android.sql output-dir/
+java -jar client-0.0.5.jar convert --output-format=mariadb LightNovelShop.sql output-dir/
+winget upgrade powershell
+winget upgrade --all --include-unknown
+winget upgrade Microsoft.PowerShell -winget
+winget upgrade Microsoft.PowerShell --winget
+winget upgrade Microsoft.PowerShell
+winget install --id Microsoft.Powershell --source winget
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+cd .\firefox-vertical-tabs\
+git pull
+cd ..
+cd .\NewsApp_Android_RESTServices\
+git pull
+clear
+mvn clean install
+clear
+mvn clean install -DskipTest
+mvn clean install
+git status
+git stash
+git checkout -b develop
+git push -u origin develop
+git stash pop
+clear
+git config core.autocrlf false
+git stash
+git stash pop
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git stash
+git checkout main
+git checkout -b v2.0.0
+git push -u origin v2.0.0
+git checkout develop
+git stash pop
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git status --oneline
+git log --oneline
+git rebase -i HEAD~7
+git log --oneline
+git reflog
+git reset --hard HEAD@{2}
+git reset --hard "HEAD@{2}"
+git log --oneline
+git reflog
+git reset --hard "HEAD@{7}"
+git log --oneline
+git reflog
+git reset --hard "HEAD@{1}"
+flutter upgrade
+cd D:
+cd GitHub
+cd .\NewsApp_Android_RESTServices\
+git status
+ls
+git pull
+git status
+cd ..
+cd .\NewsAPP_RSS_NewsAPI_Azure\
+git status
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget upgrade --all --include-unknown
+git pull
+git checkout feature/kotlin_convert
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+ssh notelysia@notelysiaserver.ddns.net -p 5435.
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+mvn clean install
+wininit
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+cava
+git pull
+cava
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+ssh-keygen -t rsa -b 4096 -C "ngothanhlong19943@gmail.com"
+ssh git@github.com:2dgirlismywaifu/My-REST-Services.git
+gh
+winget install --id GitHub.cli
+gh
+gi
+gc
+clear
+gh
+clear
+gh git@github.com:2dgirlismywaifu/My-REST-Services.git
+gh -T git@github.com:2dgirlismywaifu/My-REST-Services.git
+ssh git@github.com:2dgirlismywaifu/My-REST-Services.git
+ssh git@github.com:2dgirlismywaifu
+ssh git@github.com
+clear
+ssh 2dgirlismywaifu@github.com
+ssh -T 2dgirlismywaifu@github.com
+ssh -T git@github.com
+ssh -vT git@github.com
+cd .ssh
+ssh-keygen -t rsa -b 4096 -C "ngothanhlong19943@gmail.com"
+ssh -T git@github.com
+ssh -vT git@github.com
+ssh -vT git@github.com -i "C:\Users\notelysia\.ssh\2dgirlismywaifu-github"
+ssh git@github.com -i "C:\Users\notelysia\.ssh\2dgirlismywaifu-github"
+ssh git@github.com:2dgirlismywaifu/My-REST-Services.git -i "C:\Users\notelysia\.ssh\2dgirlismywaifu-github"
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git pull
+git checkout develop
+git checkout -b newsapp/dto
+git checkout develop
+git pull
+git log --oneline
+git rebase -i HEAD~2
+git log --oneline
+git push -f origin develop
+git checkout -b spring_csrf
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+git stash
+git checkout develop
+git checkout -b fix_authentication
+git stash pop
+git checkout develop
+git pull
+winget upgrade --all --include-unknown
+cava
+ssh notelysia@notelysiaserver.ddns.net -p 5435
+powervfg /batteryreport
+powercfg /batteryreport
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+cd D:\GitHub\
+ls
+cd .\firefox-vertical-tabs\
+git pull
+git checkout openbox
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+gcc --version
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+winget install ffmpeg
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Danmachi IV - 05.mp4'
+clear
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Danmachi IV - 05.mp4'
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Saenai Heroine no Sodatekata Fine.mp4'
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+cd Documents
+ls
+clear
+cd
+ls
+cd OneDrive
+ls
+cd Documents
+cd .\PowerShell\
+git status
+git add .
