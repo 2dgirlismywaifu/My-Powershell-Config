@@ -1072,3 +1072,50 @@ cd Documents
 cd .\PowerShell\
 git status
 git add .
+git commit -m "Update Powershell config"
+git push
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+git config --global --add safe.directory D:/VNEXT/ojt_java
+git clone https://github.com/Tnixc/firefox-config.git
+git pull
+mklink
+mklink "D:\GitHub\firefox-vertical-tabs\userChrome.css"
+./mklink
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+cd D:\GitHub\
+ls
+cd .\NewsApp_Android_RESTServices\
+ls
+clear
+git checkout main
+git pull
+clear
+git checkout develop
+git pull
+git status
+git rebase main
+git log --oneline
+git status
+git push -f origin develop
+cd ..
+cd .\Legacy_Key_Generator\
+git status
+git add .
+git commit -m "Add depdency bot"
+git push -f origin main
+cava
+git status
+git pull -f
+git stash
+git pull -f
+git stash pop
+git status
+clear
+cd C:\Users\notelysia\OneDrive\Documents\PowerShell
+git status
+Install-Module Terminal-Icons -Force
+Install-Module PSReadLine -Force
+git add .
+Install-Module PSReadLine -Force
+Install-Module Terminal-Icons -Force
+git add .
