@@ -1119,3 +1119,39 @@ git add .
 Install-Module PSReadLine -Force
 Install-Module Terminal-Icons -Force
 git add .
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+git config --global --add safe.directory D:/VNEXT/demo-write-template
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+git pull
+git branch
+git pull orign
+git pull origin
+git pull
+Confirm-SecureBootUEFI
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+mvn clean install
+git branch
+git checkout feature/vgate/d2-importticket
+git checkout --
+git checkout -
+mvn clean install
+java -v
+java -version
+clear
+java -jar .\cvexport-0.0.1-SNAPSHOT.jar
+winget install th-ch.YouTubeMusic
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+cd D:\GitHub\
+git clone https://github.com/catppuccin/thunderbird thunderbird-catppuccin
+git clone https://github.com/catppuccin/powershell powershell-catppuccin
+cd D:\GitHub\
+git clone https://github.com/davi19/Catppuccin-Gitkraken-Theme
+$env:PSModulePath
+Get-Help Catppuccin
+clear
