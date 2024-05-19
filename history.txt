@@ -1155,3 +1155,261 @@ git clone https://github.com/davi19/Catppuccin-Gitkraken-Theme
 $env:PSModulePath
 Get-Help Catppuccin
 clear
+git branch -u mastar main
+git branch -m master main
+git checkout -b develop
+git chekout main
+git checkout main
+git branch
+git checkout -b main
+git checkout -b develop
+git pull
+git checkout main
+git pull
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+neofetch
+winget install --id nepnep.neofetch-win
+neofetch
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+git clone https://github.com/ilham25/dotfiles-openbox
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+tree
+clear
+cd ..
+tree
+clear
+cd .\src\main\java\
+ls
+cd com
+cd .\vnext\
+cd .\employee\
+cd .\cvexport\
+ls
+clear
+tree
+tree --help
+tree .\common\
+clear
+ls -l
+ls
+clear
+tree /D
+tree /F
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+cd D:\builder_cache\NOTElysia\
+git stash pop
+git stash
+git stash pop
+git stash
+git stash pop
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+clear
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+cava
+clear
+cava
+git clone --depth 1 --single-branch https://github.com/odoo/odoo.git odoo-17
+cd .\odoo-17\
+cava
+winfetch
+neofetch
+clear
+winget upgrade --all --include-unknown
+pytthon
+py
+clear
+conda active odoo
+conda
+clear
+python
+conda active base
+conda activate base
+conda init
+conda activate base
+python
+conda activate odoo-17
+python
+clear
+conda deactivate odoo-17
+python
+conda
+conda create
+clear
+cd D:
+cd .\builder_cache\
+ls
+cd ..
+cd .\GitHub\
+cd .\odoo-17\
+winget upgrade --all --include-unknown
+winget upgrade Microsoft.VCRedist.2015+.x64
+winget upgrade Microsoft.VCRedist.2015+.x86
+winget upgrade Telegram.TelegramDesktop
+winget upgrade Microsoft.PowerToys
+cd D:\GitHub\odoo-17
+conda activate odoo-17
+pip install setuptools wheel
+pip install -r requirements.txt
+python odoo-bin -r odoo -w Long@14116560 --addons-path=addons -d odoodatabase
+winget upgrade --all --include-unknown
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+irm https://massgrave.dev/get | iex
+winget upgrade --all --include-unknown
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ping google.com
+netsh int ip resset
+ping https://click.kaspersky.com/?hl=vi-VN&customization=&link=VPN_troubleshooting_error&syst=Microsoft%20Windows%2011%2010.0.22631%20Service%20Pack%200%20Build%2022631&pid=ksde&version=21.16.6.467&hotfix=a.c
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ipconfig
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh 192.168.4.222 -p 5450
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh 192.168.4.222 -p 5450
+ssh 192.168.4.8 -p 5450
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh 192.168.4.8 -p 5450
+ssh notelysia@notelysiaserver.ddns.net -p 5450
+ssh 192.168.4.8 -p 5450
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex "&{$((New-Object System.Net.WebClient).DownloadString('https://gist.githubusercontent.com/MadeBaruna/e017637fbc6c72d47d72ba42dfb2477b/raw/hsr_getlink.ps1'))}"
+[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12; Invoke-Expression (New-Object Net.WebClient).DownloadString("https://gist.githubusercontent.com/Star-Rail-Station/2512df54c4f35d399cc9abbde665e8f0/raw/get_warp_link_os.ps1?cachebust=srs")
+ssh 192.168.4.8 -p 5450
+systeminfo
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 01 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 02 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 03 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 04 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 05 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 06 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 07 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 08 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 09 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 10 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 11 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 12 [Visitor-Arc].mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Irregular at Magic High School S2 - 13 [Visitor-Arc].mp4'
+ssh 192.168.4.8 -p 5450
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'The Honor Student at Magic High School - 13.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI S2 - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 12.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'BOFURI - 04.mp4'
+diskpart
+cd F
+F:
+cd EFI
+ls
+cd ubuntu
+ls
+cd ..
+del ubuntu
+ls
+ssh 192.168.4.8 -p 5450
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+ssh 192.168.4.8 -p 5450
+irm https://massgrave.dev/get | iex
+iwr -useb https://christitus.com/win | iex
+diskpart
+cava
+iwr -useb https://christitus.com/win | iex
+python
+ifconfig /all
+ipconfig /all
+ping store.steampowered.com
+ipconfig /flushdns
+ping store.steampowered.com
+nslookup store.steampowered.com
+ipconfig /registerdns
+nslookup store.steampowered.com
+ipconfig /registerdns
+ipconfig /displaydns
+ipconfig /flushdns
+ipconfig /displaydns
+nslookup store.steampowered.com
+ping store.steampowered.com
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday S2 - 12.mp4'
+git clone https://github.com/yxh0/bilibili_jsonToSRT.git
+& D:/builder_cache/msys64/ucrt64/bin/python.exe D:\builder_cache\.vscode\extensions\ms-python.python-2024.6.0\python_files\printEnvVariablesToFile.py D:\builder_cache\.vscode\extensions\ms-python.python-2024.6.0\python_files\deactivate\powershell\envVars.txt
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 01.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 02.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 03.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 04.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 05.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 06.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 07.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 08.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 09.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 10.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 11.mp4'
+ffmpeg -i video.m4s -i audio.m4s -codec copy 'Tawawa on Monday - 12.mp4'
+& D:/builder_cache/msys64/ucrt64/bin/python.exe D:\builder_cache\.vscode\extensions\ms-python.python-2024.6.0\python_files\printEnvVariablesToFile.py D:\builder_cache\.vscode\extensions\ms-python.python-2024.6.0\python_files\deactivate\powershell\envVars.txt
+DISM /Online /Cleanup-Image /RestoreHealth
+git status
+git add .

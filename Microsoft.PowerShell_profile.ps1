@@ -15,7 +15,7 @@ $Flavor = $Catppuccin['Mocha']
 
 # Print a summary of the flavor's colors
 # Returns Null, calls Write-Host internally.
-$Flavor.Table()
+#$Flavor.Table()
 
 # Print blocks of the flavor's colors
 # Returns a string
